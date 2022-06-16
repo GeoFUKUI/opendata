@@ -2,7 +2,7 @@
 
 ## アプリ
 
-https://geofukui.github.io/opendata/
+- [福井のデータ500件だけ表示するサンプルアプリ](https://geofukui.github.io/opendata/)
 
 ## ユースケース
 
