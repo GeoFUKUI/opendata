@@ -1,4 +1,8 @@
-# opendata
+#　福井の地盤オープンデータ
+
+## アプリ
+
+https://geofukui.github.io/opendata/
 
 ## ユースケース
 
