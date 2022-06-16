@@ -15,4 +15,4 @@
 
 ## todo
 
-KuniJibanのデータも入れる
+- KuniJibanのデータも入れる
