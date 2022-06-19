@@ -17,7 +17,7 @@
 
 - [dtd/BED0400.DTD](dtd/BED0400.DTD) 出展: 地質・土質調査成果に係わるDTD、XML記入例 H28.10
 (R01.6.3更新) ([DTD・XML記入例 | 電子納品に関する要領・基準 - 国土交通省](http://www.cals-ed.go.jp/cri_dtdxml/))
-- [dtd/BED0300.DTD](dtd/BED0400.DTD) 出展: 地質・土質調査成果に係わるDTD、XML記入例 H20.12
+- [dtd/BED0300.DTD](dtd/BED0300.DTD) 出展: 地質・土質調査成果に係わるDTD、XML記入例 H20.12
 (H21.8.6更新) ([DTD・XML記入例 | 電子納品に関する要領・基準 - 国土交通省](http://www.cals-ed.go.jp/cri_dtdxml/))
 
 ## todo
